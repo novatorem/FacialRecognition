@@ -1,10 +1,11 @@
-# Foobar
+# FacialRecognition
 
-Foobar is a Python library for dealing with word pluralization.
+FacialRecognition is a Python repo that can detect faces in a video!
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+First, you need to have Python (3.6+) installed and disable PATH limit (preferably).
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install a number of requirements.
 
 ```bash
 pip install foobar
