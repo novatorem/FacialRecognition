@@ -22,9 +22,8 @@ python vid_pano_track.py demo_vids/d1-1.mp4 demo_vids/d1-2.mp4 30
 ```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+This was done as part of coursework for CSC420 at UofT.
+Based on Computer Vision, you're welcome to fork or open any issues you find.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
